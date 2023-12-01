@@ -296,8 +296,12 @@ section-4 Sponsor
   grid-template-columns: repeat(5, 1fr);
   margin-top: 50px;
 }
+/*---------------
+ footer 
+ ---------------*/
 .footer {
-  width: 1440px;
+  /* width: 1440px; */
+  width: 100%;
   border-radius: 8px;
   background: #fff4e7;
   margin: 130px 0 216px 0;
