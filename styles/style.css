@@ -512,8 +512,8 @@ section-4 Sponsor
     margin-top: 24px;
   }
   .sponsor-icons {
-    display: grid;
-    grid-template-columns: repeat(2, 1fr);
+    display: flex;
+    flex-wrap: wrap;
     margin-top: 50px;
   }
   .icon {
